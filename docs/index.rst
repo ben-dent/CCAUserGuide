@@ -17,4 +17,5 @@ Contents
    license
    help
    installation
+   execution
    updates

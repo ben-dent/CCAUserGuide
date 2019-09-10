@@ -1,5 +1,5 @@
-Installation and Execution
-============================
+Installation
+=============
 
 Installation
 -------------
@@ -89,11 +89,3 @@ The driver can be installed from here here:
 https://github.com/mozilla/geckodriver/releases
 
 This needs to be installed in /usr/bin or /usr/local/bin
-
-Program Execution
-------------------
-
-The program can be executed (within the directory) by running:
-::
-
-    python3 Main.py
